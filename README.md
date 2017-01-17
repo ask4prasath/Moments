@@ -1,3 +1,5 @@
+# **Note**: Moments is currently unmaintained, and parts of the app may not work as intended. 
+
 # Moments
 Moments is a Snapchat clone built using [Xamarin.Forms](https://xamarin.com/forms) and [Microsoft Azure](https://azure.microsoft.com/en-us/).
 
