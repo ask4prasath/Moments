@@ -68,7 +68,7 @@ app follow the instructions below to:
   - `Friendship` with "Only Authenticated Users"
   - `Moment` with "Only Authenticated Users"
 12. Go to the Azure Mobile Service **DASHBOARD** and click **MANAGE KEYS** at the bottom. Copy the **Master Key** for the next step.
-13. Return to the **DATA** section and click the `Account` table, then click **SCRIPT** and choose **Insert** from the drop-down list. Copy the  [Account_Insert.js](https://github.com/pierceboggan/Moments/blob/master/Azure/service/table/account.insert.js) code - replacing `YOUR_MASTER_KEY_HERE` with the value from the previous step. Refer to [this blog](http://thirteendaysaweek.com/2013/12/13/xamarin-ios-and-authentication-in-windows-azure-mobile-services-part-iii-custom-authentication/) for more info on how it works. Be sure to click **SAVE** at the bottom to persist changes to the script.
+13. Return to the **DATA** section and click the `Account` table, then click **SCRIPT** and choose **Insert** from the drop-down list. Copy the  [Account_Insert.js](https://github.com/pierceboggan/Moments/blob/master/Azure/service/table/account.insert.js) code - replacing `YOUR_MASTER_KEY_HERE` with the value from the previous step. Refer to [this blog](http://appwoklabs.com) for more info on how it works. Be sure to click **SAVE** at the bottom to persist changes to the script.
 
 The backend for your Snapchat clone is now complete. :)
 
