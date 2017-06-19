@@ -1,9 +1,7 @@
-# **Note**: Moments is currently unmaintained, and parts of the app may not work as intended. 
-
 # Moments
-Moments is a Snapchat clone built using [Xamarin.Forms](https://xamarin.com/forms) and [Microsoft Azure](https://azure.microsoft.com/en-us/).
+Moments is a [Snapchat clone](http://www.appworklabs.com) built using [Xamarin.Forms](https://xamarin.com/forms) by [AppWorkLabs](http://www.appworklabs.com).
 
-Text messaging is out-of-style! Everyone these days sends selfies, pictures of their food, and emojis instead. Duh. Moments allows you to send those selfies and pictures of your food to those that love you. You can even draw funny pictures on them! That's not even the best part! Moments is completely open-source, so you can [create your own SnapChat clone using Xamarin and Azure in just a few minutes](#build-your-own).
+Text messaging is out-of-style! Everyone these days sends selfies, pictures of their food, and emojis instead. Duh. Moments allows you to send those selfies and pictures of your food to those that love you. You can even draw funny pictures on them! That's not even the best part! Moments is completely open-source, so you can [create your own SnapChat clone using Xamarin and Azure in just a few minutes](http://www.appworklabs.com).
 
 But seriously. Moments is awesome! If you've ever wondered how to use custom renderers in Xamarin.Forms, upload blobs from your Xamarin apps using Azure Storage, or how to maximize shared code with Plugins for Xamarin, Moments can show you how.
 
@@ -89,8 +87,4 @@ The backend for your Snapchat clone is now complete. :)
      - `InsightsKey` - Xamarin Insights configuration (using this is optional)
 16. Build *Moments* for either an iOS or Android device, and watch it work its magic!
 
-### Special Thanks
-* All of the [libraries and projects](OpenSource.md) that made Moments possible.
-* Mitch Milam for [DrawIt](https://github.com/MitchMilam/Drawit), which was used to implement drawing on moments before sending.
-* [Imad Alazani](https://www.linkedin.com/pub/imad-alazani/63/376/368) for all his help testing Moments over the past few weeks.
-* Christopher House for his blog post on [Custom Authentication with Azure / Xamarin](http://thirteendaysaweek.com/2013/12/13/xamarin-ios-and-authentication-in-windows-azure-mobile-services-part-iii-custom-authentication/).
+[Snapchat clone](http://www.appworklabs.com).
